@@ -24,38 +24,42 @@ In this lab, I learned how to navigate a Linux file structure, locate files, and
 
  <h2>Task 1: Get the current directory information</h2>
 In this task, I need to use the commands I learned about to check the current working directory and list its contents.
-<p align="center"> <br />
+ <br /> <br />
 (1) I used the command "pwd" to check the current working directory. <br/>
-(2) I used the command "ls" to display the names of the files and directories in the current working directory. <br/>
+(2) I used the command "ls" to display the names of the files and directories in the current working directory. 
+<br/> <br /> <p align="center">
 <img src="https://imgur.com/FZQwQ1r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<br /> <br />
+ 
   <h2>Task 2: Change directory and list the subdirectories </h2>
 In this task, I need to navigate to a new directory and determine the subdirectories it contains.
-<p align="center"> <br />
+ <br /> <br />
 (3) I used the command "cd reports" to navigate to the reports directory. <br/>
-(4) I used the command "ls" to display the names of the files and directories in the reports directory. <br/>
+(4) I used the command "ls" to display the names of the files and directories in the reports directory. 
+<br/> <br/> <p align="center">
 <img src="https://imgur.com/kQgsg7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<br /> <br />
+ 
   <h2>Task 3: Locate and read the contents of a file </h2>
 In this task, I need to navigate to a subdirectory and read the contents of a file it contains.
-<p align="center"> <br />
+<br /> <br />
 (5) I used the command "cd users" to navigate to the users directory. <br/>
 (6) I used the command "ls" to display the names of the files and directories in the users directory. <br/>
-(7) I used the command "cat" to print the contents of the file to the shell. <br/>
+(7) I used the command "cat" to print the contents of the file to the shell. 
+<br/> <br/> <p align="center"> 
 <img src="https://imgur.com/T5zmiSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<br /> <br />
+
   <h2>Task 4: Navigate to a directory and locate a file </h2>
 In this task, I need to navigate to a new directory, locate a file, and examine the contents of the file.
-<p align="center"> <br />
+ <br /> <br />
 (8) I used the command "cd logs" to navigate to the logs directory. <br/>
 (9) I used the command "ls" to display the names of the files and directories in the logs directory. <br/>
-(10) I used the command "head" to display just the beginning of a file, by default ten lines. <br/>
+(10) I used the command "head" to display just the beginning of a file, by default ten lines. 
+<br/> <br/> <p align="center">
 <img src="https://imgur.com/wVQKkak.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+<br /> <br />
+
 
 
 <!--
