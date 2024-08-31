@@ -7,7 +7,7 @@ In this lab, I learned how to navigate a Linux file structure, locate files, and
 <br />
 
 
-<h2>Completed Tasks in this Lab</h2>
+<h2>Practical experience gained in this Lab</h2>
 
 - <b>Finding the current working directory and display its contents</b> 
 - <b>Navigating to a directory and list subdirectories</b>
@@ -23,21 +23,24 @@ In this lab, I learned how to navigate a Linux file structure, locate files, and
 <h2>Lab walk-through:</h2>
 
  <h2>Task 1: Get the current directory information</h2>
-<p align="center">
+In this task, I need to use the commands I learned about to check the current working directory and list its contents.
+<p align="center"> <br />
 (1) I used the command "pwd" to check the current working directory. <br/>
 (2) I used the command "ls" to display the names of the files and directories in the current working directory. <br/>
 <img src="https://imgur.com/FZQwQ1r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   <h2>Task 2: Change directory and list the subdirectories </h2>
-<p align="center">
+In this task, I need to navigate to a new directory and determine the subdirectories it contains.
+<p align="center"> <br />
 (3) I used the command "cd reports" to navigate to the reports directory. <br/>
 (4) I used the command "ls" to display the names of the files and directories in the reports directory. <br/>
 <img src="https://imgur.com/kQgsg7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   <h2>Task 3: Locate and read the contents of a file </h2>
-<p align="center">
+In this task, I need to navigate to a subdirectory and read the contents of a file it contains.
+<p align="center"> <br />
 (5) I used the command "cd users" to navigate to the users directory. <br/>
 (6) I used the command "ls" to display the names of the files and directories in the users directory. <br/>
 (7) I used the command "cat" to print the contents of the file to the shell. <br/>
@@ -45,7 +48,8 @@ In this lab, I learned how to navigate a Linux file structure, locate files, and
 <br />
 <br />
   <h2>Task 4: Navigate to a directory and locate a file </h2>
-<p align="center">
+In this task, I need to navigate to a new directory, locate a file, and examine the contents of the file.
+<p align="center"> <br />
 (8) I used the command "cd logs" to navigate to the logs directory. <br/>
 (9) I used the command "ls" to display the names of the files and directories in the logs directory. <br/>
 (10) I used the command "head" to display just the beginning of a file, by default ten lines. <br/>
