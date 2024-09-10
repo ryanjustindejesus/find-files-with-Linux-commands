@@ -26,7 +26,7 @@ In this lab, I learned how to navigate a Linux file structure, locate files, and
 In this task, I used the commands I learned  to check the current working directory and list its contents.
  <br /> <br />
 (1) First, I used the command "pwd" to check the current working directory. <br/> <br/>
-(2) Then, I used the command "ls" to display the names of the files and directories in the current working directory.
+(2) Finally, I used the command "ls" to display the names of the files and directories in the current working directory.
 <br/> <br /> <p align="center">
 <img src="https://imgur.com/FZQwQ1r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
@@ -35,7 +35,7 @@ In this task, I used the commands I learned  to check the current working direct
 In this task, I navigated to a new directory and determined the subdirectories it contained.
  <br /> <br />
 (1) First, I used the command "cd reports" to navigate to the reports directory. <br/> <br/>
-(2) Then, I used the command "ls" to display the names of the files and directories in the reports directory.
+(2) Finally, I used the command "ls" to display the names of the files and directories in the reports directory.
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/kQgsg7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
