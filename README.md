@@ -34,8 +34,8 @@ In this task, I used the commands I learned  to check the current working direct
   <h2>Task 2: Change directory and list the subdirectories </h2>
 In this task, I navigated to a new directory and determined the subdirectories it contained.
  <br /> <br />
-(3) First, I used the command "cd reports" to navigate to the reports directory. <br/>
-(4) Then, I used the command "ls" to display the names of the files and directories in the reports directory.
+(1) First, I used the command "cd reports" to navigate to the reports directory. <br/> <br/>
+(2) Then, I used the command "ls" to display the names of the files and directories in the reports directory.
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/kQgsg7G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
@@ -43,9 +43,9 @@ In this task, I navigated to a new directory and determined the subdirectories i
   <h2>Task 3: Locate and read the contents of a file </h2>
 In this task, I navigated to a subdirectory and read the contents of a file it contained.
 <br /> <br />
-(5) First, I used the command "cd users" to navigate to the users directory. <br/>
-(6) Then, I used the command "ls" to display the names of the files and directories in the users directory. <br/>
-(7) Finally, I used the command "cat" to print the contents of the file to the shell.
+(1) First, I used the command "cd users" to navigate to the users directory. <br/> <br/>
+(2) Then, I used the command "ls" to display the names of the files and directories in the users directory. <br/> <br/>
+(3) Finally, I used the command "cat" to print the contents of the file to the shell.
 <br/> <br/> <p align="center"> 
 <img src="https://imgur.com/T5zmiSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
@@ -53,9 +53,9 @@ In this task, I navigated to a subdirectory and read the contents of a file it c
   <h2>Task 4: Navigate to a directory and locate a file </h2>
 In this task, I navigated to a new directory, located a file, and examined the contents of the file.
  <br /> <br />
-(8) First, I used the command "cd logs" to navigate to the logs directory. <br/>
-(9) Then, I used the command "ls" to display the names of the files and directories in the logs directory. <br/>
-(10) Finally, I used the command "head" to display just the beginning of a file, by default ten lines. 
+(1) First, I used the command "cd logs" to navigate to the logs directory. <br/> <br/>
+(2) Then, I used the command "ls" to display the names of the files and directories in the logs directory. <br/> <br/>
+(3) Finally, I used the command "head" to display just the beginning of a file, by default ten lines. 
 <br/> <br/> <p align="center">
 <img src="https://imgur.com/wVQKkak.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
